@@ -104,5 +104,5 @@ export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"
 export LD_LIBRARY_PATH=/opt/oracle/instantclient_19_8:$LD_LIBRARY_PATH
 export PATH="$HOME/.cargo/bin:$PATH"
 
-alias ls=lsd
+#alias ls=lsd
 alias cat=bat
