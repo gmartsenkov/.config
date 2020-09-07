@@ -36,8 +36,10 @@
 *color15: #ebdbb2
 
 !! URxvt Appearance
-URxvt.font: xft:JetBrains Mono NL:size=13
+URxvt.font: xft:JetBrainsMono Nerd Font Mono:style=Regular:size=13
 URxvt.scrollBar: false
 URxvt.scrollBar_right: false
 URxvt.cursorBlink: true
 URxvt.depth: 32
+URxvt.internalBorder: 24
+URxvt.iso14755: false
