@@ -43,3 +43,8 @@ URxvt.cursorBlink: true
 URxvt.depth: 32
 URxvt.internalBorder: 24
 URxvt.iso14755: false
+
+!Scrolling
+URxvt*scrollTtyKeypress: true
+URxvt*scrollTtyOutput: false
+URxvt*skipScroll: true
